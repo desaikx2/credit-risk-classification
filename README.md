@@ -21,9 +21,10 @@ The machine learning process for this analysis consisted of the following stages
 Here are the accuracy, precision, and recall scores for the Logistic Regression model used in this analysis:
 
 **Logistic Regression Model:**
-- Accuracy: 0.9926
-- Precision: 0.8447
-- Recall: 0.9402
+- Accuracy: 100%
+- Precision: 87%
+- Recall: 89%
+- F1-Score : 88%
 
 ### Summary
 
